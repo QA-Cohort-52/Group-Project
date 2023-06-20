@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgroup_project=self.webpackChunkgroup_project||[]).push([[7691],{3340:o=>{o.exports=JSON.parse('{"permalink":"/Group-Project/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkgroup_project=self.webpackChunkgroup_project||[]).push([[4877],{4868:e=>{e.exports=JSON.parse('{"permalink":"/Group-Project/blog/tags/hello","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
